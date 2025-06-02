@@ -238,3 +238,4 @@ C:\Carsties\src\AuctionService\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionS.72D7E915.Up2Date
 C:\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.genruntimeconfig.cache
 C:\Carsties\src\AuctionService\obj\Debug\net9.0\ref\AuctionService.dll
+C:\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.sourcelink.json
