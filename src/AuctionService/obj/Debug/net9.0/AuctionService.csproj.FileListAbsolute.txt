@@ -239,3 +239,10 @@ C:\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionS.72D7E915.Up2Date
 C:\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.genruntimeconfig.cache
 C:\Carsties\src\AuctionService\obj\Debug\net9.0\ref\AuctionService.dll
 C:\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.sourcelink.json
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\MassTransit.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\Contracts.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\Contracts.pdb
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\MassTransit.EntityFrameworkCoreIntegration.dll

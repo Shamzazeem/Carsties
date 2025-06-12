@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionService", "src\Aucti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchService", "src\SearchService\SearchService.csproj", "{87F682C6-621F-4999-BF59-EA436DCF0565}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "src\Contracts\Contracts.csproj", "{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,18 @@ Global
 		{87F682C6-621F-4999-BF59-EA436DCF0565}.Release|x64.Build.0 = Release|Any CPU
 		{87F682C6-621F-4999-BF59-EA436DCF0565}.Release|x86.ActiveCfg = Release|Any CPU
 		{87F682C6-621F-4999-BF59-EA436DCF0565}.Release|x86.Build.0 = Release|Any CPU
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}.Debug|x64.Build.0 = Debug|Any CPU
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}.Debug|x86.Build.0 = Debug|Any CPU
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}.Release|x64.ActiveCfg = Release|Any CPU
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}.Release|x64.Build.0 = Release|Any CPU
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}.Release|x86.ActiveCfg = Release|Any CPU
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +64,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{3D59689D-BE95-4D99-9922-5015BEEE8EF0} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 		{87F682C6-621F-4999-BF59-EA436DCF0565} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{0A127898-A53B-4C81-9AF7-2B4A08CAA6EC} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,12 @@
+C:\Carsties\src\Contracts\bin\Debug\net9.0\Contracts.deps.json
+C:\Carsties\src\Contracts\bin\Debug\net9.0\Contracts.dll
+C:\Carsties\src\Contracts\bin\Debug\net9.0\Contracts.pdb
+C:\Carsties\src\Contracts\obj\Debug\net9.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Carsties\src\Contracts\obj\Debug\net9.0\Contracts.AssemblyInfoInputs.cache
+C:\Carsties\src\Contracts\obj\Debug\net9.0\Contracts.AssemblyInfo.cs
+C:\Carsties\src\Contracts\obj\Debug\net9.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Carsties\src\Contracts\obj\Debug\net9.0\Contracts.sourcelink.json
+C:\Carsties\src\Contracts\obj\Debug\net9.0\Contracts.dll
+C:\Carsties\src\Contracts\obj\Debug\net9.0\refint\Contracts.dll
+C:\Carsties\src\Contracts\obj\Debug\net9.0\Contracts.pdb
+C:\Carsties\src\Contracts\obj\Debug\net9.0\ref\Contracts.dll
