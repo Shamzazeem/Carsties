@@ -246,3 +246,11 @@ C:\Carsties\src\AuctionService\bin\Debug\net9.0\RabbitMQ.Client.dll
 C:\Carsties\src\AuctionService\bin\Debug\net9.0\Contracts.dll
 C:\Carsties\src\AuctionService\bin\Debug\net9.0\Contracts.pdb
 C:\Carsties\src\AuctionService\bin\Debug\net9.0\MassTransit.EntityFrameworkCoreIntegration.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Carsties\src\AuctionService\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
