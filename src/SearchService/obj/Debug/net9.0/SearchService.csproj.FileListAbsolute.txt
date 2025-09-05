@@ -65,3 +65,4 @@ C:\Carsties\src\SearchService\bin\Debug\net9.0\RabbitMQ.Client.dll
 C:\Carsties\src\SearchService\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
 C:\Carsties\src\SearchService\bin\Debug\net9.0\Contracts.dll
 C:\Carsties\src\SearchService\bin\Debug\net9.0\Contracts.pdb
+C:\Carsties\src\SearchService\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

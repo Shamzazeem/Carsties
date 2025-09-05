@@ -39,3 +39,5 @@ C:\Carsties\src\GatewayService\obj\Debug\net9.0\refint\GatewayService.dll
 C:\Carsties\src\GatewayService\obj\Debug\net9.0\GatewayService.pdb
 C:\Carsties\src\GatewayService\obj\Debug\net9.0\GatewayService.genruntimeconfig.cache
 C:\Carsties\src\GatewayService\obj\Debug\net9.0\ref\GatewayService.dll
+C:\Carsties\src\GatewayService\bin\Debug\net9.0\appsettings.Docker.json
+C:\Carsties\src\GatewayService\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
